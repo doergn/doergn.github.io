@@ -7,8 +7,8 @@ recording: https://vimeo.com/1068553160
 layout: default
 modal-id: 52
 date: 2025-03-12 - 2025-03-13
-img: dod_zurich24.png
-thumbnail: dod_zurich24_thumbnail.png
+img: dod_zurich25.png
+thumbnail: dod_zurich25_thumbnail.png
 alt: image-alt
 project-date: March 2025
 client: DevOpsDays Zurich
