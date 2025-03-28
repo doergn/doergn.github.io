@@ -1,0 +1,17 @@
+---
+title: Global DevOpsDays Organizer Summit
+subtitle: 2024
+talk-title: Bigger is Not Always Better
+slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/DevOpsDaysZurich_WhyBiggerIsNotAlwaysBetter.pdf
+recording: https://youtu.be/_8r4c2zGjNI?si=ycfeXNKFfb3PgJRM
+layout: default
+modal-id: 50
+date: 2024-09-03
+img: dod_organizerSummit24.png
+thumbnail: dod_organizerSummit24_thumbnail.png
+alt: image-alt
+project-date: September 2024
+client: DevOpsDays Antwerp
+category: Talk
+description: In this talk, we will explore the journey of scaling DevOpsDays Zurich from a compact, highly engaging event to a large-scale conference hosting 500 attendees. We’ll delve into the challenges encountered, such as increased workload, the need for more sponsors, ticket sales pressures, and the unintended impact on perceived quality. The narrative will then shift to our critical decision-making process, trade-off analysis, and the strategic downscale back to 250 participants. We will share insights on managing community expectations, ensuring event quality, and achieving a balance that honors the core values of DevOpsDays.
+---
